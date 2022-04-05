@@ -1,0 +1,16 @@
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\obj\Debug\net5.0\59.csproj.AssemblyReference.cache
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\obj\Debug\net5.0\59.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\obj\Debug\net5.0\59.AssemblyInfoInputs.cache
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\obj\Debug\net5.0\59.AssemblyInfo.cs
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\obj\Debug\net5.0\59.csproj.CoreCompileInputs.cache
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\bin\Debug\net5.0\59.exe
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\bin\Debug\net5.0\59.deps.json
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\bin\Debug\net5.0\59.runtimeconfig.json
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\bin\Debug\net5.0\59.runtimeconfig.dev.json
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\bin\Debug\net5.0\59.dll
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\bin\Debug\net5.0\ref\59.dll
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\bin\Debug\net5.0\59.pdb
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\obj\Debug\net5.0\59.dll
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\obj\Debug\net5.0\ref\59.dll
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\obj\Debug\net5.0\59.pdb
+D:\HocKy221\Lập trình C-Sharp\baitap\B3\HomeWork\59\obj\Debug\net5.0\59.genruntimeconfig.cache

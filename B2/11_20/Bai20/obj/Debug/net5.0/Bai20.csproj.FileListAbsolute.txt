@@ -1,0 +1,16 @@
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\bin\Debug\net5.0\Bai20.exe
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\bin\Debug\net5.0\Bai20.deps.json
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\bin\Debug\net5.0\Bai20.runtimeconfig.json
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\bin\Debug\net5.0\Bai20.runtimeconfig.dev.json
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\bin\Debug\net5.0\Bai20.dll
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\bin\Debug\net5.0\ref\Bai20.dll
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\bin\Debug\net5.0\Bai20.pdb
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\obj\Debug\net5.0\Bai20.csproj.AssemblyReference.cache
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\obj\Debug\net5.0\Bai20.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\obj\Debug\net5.0\Bai20.AssemblyInfoInputs.cache
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\obj\Debug\net5.0\Bai20.AssemblyInfo.cs
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\obj\Debug\net5.0\Bai20.csproj.CoreCompileInputs.cache
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\obj\Debug\net5.0\Bai20.dll
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\obj\Debug\net5.0\ref\Bai20.dll
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\obj\Debug\net5.0\Bai20.pdb
+D:\HocKy221\Lập trình C-Sharp\baitap\B2\11_20\Bai20\obj\Debug\net5.0\Bai20.genruntimeconfig.cache
