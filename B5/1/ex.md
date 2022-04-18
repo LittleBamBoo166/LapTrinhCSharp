@@ -6,6 +6,7 @@ Một đơn vị sản xuất gồm có các cán bộ là công nhân, kỹ sư
 **Yêu cầu 1**: Xây dựng các lớp CongNhan, KySu, NhanVien kế thừa từ lớp CanBo.
 
 **Yêu cầu 2**: Xây dựng lớp QLCB(quản lý cán bộ) cài đặt các phương thức thực hiện các chức năng sau:
+
     - Thêm mới cán bộ.
     - Tìm kiếm theo họ tên.
     - Hiện thị thông tin về danh sách các cán bộ.
