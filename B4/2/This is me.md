@@ -1,5 +1,6 @@
 # This Is Me
-*Bài hát của Keala Settle*
+
+_Bài hát của Keala Settle_
 
 Watch it on [Youtube](https://www.youtube.com/watch?v=CjxugyZCfuw)
 
@@ -15,6 +16,7 @@ Run away, they say
 
 No one'll love you as you are
 
+---
 
 But I won't let them break me down to dust
 
@@ -22,6 +24,7 @@ I know that there's a place for us
 
 For we are glorious
 
+---
 
 When the sharpest words wanna cut me down
 
@@ -39,6 +42,7 @@ I'm not scared to be seen
 
 I make no apologies, this is me
 
+---
 
 Oh-oh-oh-oh
 
@@ -50,6 +54,7 @@ Oh-oh-oh-oh
 
 Oh-oh-oh, oh-oh-oh, oh-oh-oh, oh, oh
 
+---
 
 Another round of bullets hits my skin
 
@@ -61,6 +66,7 @@ Reaching for the sun (we are warriors)
 
 Yeah, that's what we've become (yeah, that's what we've become)
 
+---
 
 I won't let them break me down to dust
 
@@ -68,6 +74,7 @@ I know that there's a place for us
 
 For we are glorious
 
+---
 
 When the sharpest words wanna cut me down
 
@@ -85,6 +92,7 @@ I'm not scared to be seen
 
 I make no apologies, this is me
 
+---
 
 Oh-oh-oh-oh
 
@@ -98,6 +106,7 @@ Oh-oh-oh, oh-oh-oh, oh-oh-oh, oh, oh
 
 This is me
 
+---
 
 and I know that I deserve your love
 
@@ -113,6 +122,7 @@ This is brave, this is bruised
 
 This is who I'm meant to be, this is me
 
+---
 
 Look out 'cause here I come (look out 'cause here I come)
 
@@ -122,6 +132,7 @@ I'm not scared to be seen
 
 I make no apologies, this is me
 
+---
 
 When the sharpest words wanna cut me down
 
