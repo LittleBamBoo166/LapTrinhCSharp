@@ -2,9 +2,7 @@
 
 _Bài hát của Keala Settle_
 
-Watch it on [Youtube](https://www.youtube.com/watch?v=CjxugyZCfuw)
-
----
+> Watch it on [Youtube](https://www.youtube.com/watch?v=CjxugyZCfuw)
 
 I am not a stranger to the dark
 
