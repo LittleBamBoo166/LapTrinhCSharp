@@ -40,7 +40,7 @@ namespace _2
             return number;
         }
 
-        public void setNumber()
+        public void setNumber(int number)
         {
             this.number = number;
         }
