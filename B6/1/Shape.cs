@@ -2,9 +2,9 @@ using System;
 
 namespace _1
 {
-    public class Shape
+    public abstract class Shape
     {
-        struct Vecto
+        public struct Vecto
         {
             string startPoint;
             string endPoint;
