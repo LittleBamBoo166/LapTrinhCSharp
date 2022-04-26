@@ -30,6 +30,10 @@ namespace BTDiemDanh
             cat.makeSound267();
             bird.eat267();
             bird.makeSound267();
+            Cat cat1 = new Cat();
+            Bird bird1 = new Bird();
+            cat1.run267();
+            bird1.fly267();
             exit267:
             Console.WriteLine("Exit");
         }
